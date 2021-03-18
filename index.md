@@ -10,5 +10,5 @@ O GeoCloud é uma iniciativa pessoal no desenvolvimento de ferramentas para a bu
 ## GeoCloud 03 - Filtragem Espacial com Máscaras (Kernel)
 ```
 ## Acesso aos dados
-Acesso o [Repositório] GitHub (https://github.com/sclaudiobr/geocloud/).
+Acesso o [Repositório](https://github.com/sclaudiobr/geocloud/).
 
