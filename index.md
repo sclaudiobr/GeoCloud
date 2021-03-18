@@ -1,4 +1,4 @@
-# Geocloud
+# GeoCloud
 
 O GeoCloud é uma iniciativa pessoal no desenvolvimento de ferramentas para a busca e processamento de dados na nuvem implementados na linguagem de programação Python em IDE Jupyter da plataforma Google Colaboratory.
 
