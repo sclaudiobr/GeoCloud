@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sclaudiobr/geocloud/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Geocloud
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O GeoCloud é uma iniciativa pessoal no desenvolvimento de ferramentas para a busca e processamento de dados na nuvem implementados na linguagem de programação Python em IDE Jupyter da plataforma Google Colaboratory.
 
 ```markdown
 Syntax highlighted code block
